@@ -48,10 +48,12 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  ![Snake animation](https://github.com/ByteBloomClub/ByteBloomClub/blob/output/github-contribution-grid-snake-dark.svg)
   
+  <img src="https://github.com/ByteBloomClub/ByteBloomClub/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+
   <br/><br/><br/>
 </div>
+
 
 <hr/>
 
